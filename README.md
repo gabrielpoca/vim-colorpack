@@ -16,7 +16,7 @@ Launch vim and run the `:BundleInstall` command to install. Color schemes should
 
 Try vundle. No? Okay then:
 1. cd to your bunlde directory (i.e. ~/.vim/bunlde)
-2. run `git clone https://github.com/derekprior/vim-colorpack`
+2. run `git clone https://github.com/gabrielpoca/vim-colorpack`
 
 Color schemes should be available to be set on next run.
 
